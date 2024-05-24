@@ -270,8 +270,8 @@ img.icon-btn {
 /* section details menu */
 .section-detail{
     position: relative;
+    height: 100%;
     width: 100%;
-    height: 379px;
     background-image: url(/image/bg_detail_section.png);
     background-size: cover;
 
