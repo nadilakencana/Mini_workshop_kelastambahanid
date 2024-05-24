@@ -92,7 +92,6 @@
 .highlight1::before {
     content: '';
     position: absolute;
-    left: 256px;
     margin-top: 47px;
     width: 269px;
     height: 35px;
@@ -103,7 +102,6 @@
 .highlight2::before {
     content: '';
     position: absolute;
-    left: 125px;
     margin-top: 42px;
     width: 269px;
     height: 35px;
